@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**kitkovsky/kitkovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oliwer, I'm studying Computer Science at the Gdańsk University of Technology and I'm currently taking a year off after my third semester to focus on what I really love doing - web development.  
+You can take a look at my portfolio over [here](https://oliwerkitkowski.com).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ I'm working with:
+  - TypeScript
+  - React
+  - Styled Components
+  - Sass
+- 🔭 I’m currently working on a fullstack Reddit clone with Node.js, Next.js, and PostgreSQL. See the progress [here](https://github.com/kitkovsky/new-portfolio).
+- 🌱 I’m currently learning:
+  - Node.js
+  - Next.js
+  - SQL
+  - GraphQL
+- 📫 How to reach me:
+  - okitkowski114@gmail.com
